@@ -10,11 +10,6 @@
 
 ---
 
-### 📄 Resume
-📥 **[Download My Resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
-
----
-
 ### 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/vinay-vardhan" target="_blank">
@@ -27,57 +22,77 @@
 
 ---
 
-### 🚀 About Me
-I am a **Data Engineer** with experience building **data pipelines, cloud ETL workflows, and analytics solutions** using **AWS, Azure, PySpark, and Databricks**. Skilled in creating scalable data systems that support business insights and data-driven decision-making.
+### 📄 Resume
+📥 **[Download My Resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
 
 ---
 
-### ⚙️ Skills & Tools
+### 🚀 About Me
+I’m a **Data Engineer** focused on building scalable data pipelines, cloud ETL workflows, and analytics solutions with **AWS, Azure, Databricks, and PySpark**.  
+Passionate about turning data into insight through efficient architecture and automation.
 
-#### **Languages**
-`Python` • `SQL` • `Shell Script`
+---
 
-#### **Data Engineering**
-`PySpark` • `Databricks` • `AWS Glue` • `Azure Data Factory` • `Airflow`
+### 🛠 Tech Stack
 
-#### **Cloud**
-`AWS (S3, Lambda, EMR)` • `Azure (ADF, Synapse)` • `Terraform`
+**💻 Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-#### **Databases**
-`PostgreSQL` • `MySQL` • `SQL Server` • `Redshift`
+**⚙️ Data Engineering**  
+![PySpark](https://img.shields.io/badge/PySpark-e25a1c?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-#### **Visualization**
-`Power BI` • `Tableau`
+**☁️ Cloud Platforms**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**🗄️ Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonaws&logoColor=white)
+
+**📊 Visualization & Tools**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 💼 Experience
 
-**Data Analyst – Community Dreams Foundation (USA, Remote)**  
-- Built automated ETL pipelines using Python & SQL  
-- Created KPI dashboards in Power BI  
-- Improved data accuracy and reporting speed  
+**Data Analyst – Community Dreams Foundation (USA | Remote)**  
+- Automated ETL pipelines with Python + SQL  
+- Built Power BI dashboards for KPIs  
+- Cut manual reporting by 40%  
 
 **Data Engineer – Cognizant Technology Solutions (India)**  
-- Developed ETL pipelines using AWS Glue & Azure ADF  
-- Designed distributed data workflows using PySpark  
-- Improved data pipeline runtime by 30%  
+- Developed ETL pipelines using AWS Glue & ADF  
+- Built PySpark workflows on Databricks  
+- Optimized pipeline runtime by 30%
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| ☁️ **AWS Data Pipeline** | Automated ETL using Glue + Lambda | AWS |
-| 🛒 **Retail Analytics Dashboard** | Customer insights from 2M+ rows | SQL + Tableau |
-| 🚀 **Power BI Dashboard** | Automated KPI reports | Power BI + SQL |
+|---------|--------------|-------------|
+| ☁️ **AWS Data Pipeline** | Automated ETL from S3 to Redshift | AWS Glue, Lambda |
+| 🛒 **Retail Analytics** | Customer insights from 2M+ records | SQL, Tableau |
+| 📊 **Power BI Dashboard** | Automated KPI reporting system | Power BI, SQL |
 
 ---
 
 ### 📬 Contact
-📧 Email: **vinayvardhan0402@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/vinay-vardhan**
+📧 **vinayvardhan0402@gmail.com**  
+🔗 **[LinkedIn – Vinay Vardhan](https://linkedin.com/in/vinay-vardhan)**  
 
 ---
-⭐ _Thanks for visiting my profile!_ 🚀
+
+⭐ *Thanks for visiting my profile!* 🚀
