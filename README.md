@@ -1,20 +1,13 @@
-<!-- ================================= HEADER BANNER ================================= -->
+<!-- ======================= DATA ENGINEER IMAGE ======================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinayvardhan04/Vinayvardhan04/main/images/vinay_banner.png" alt="Vinay Banner"/>
-</p>
-
-<!-- ============================ DATA ENGINEER ILLUSTRATION ============================ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinayvardhan04/Vinayvardhan04/main/images/data_engineer.png" width="650" style="border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/Vinayvardhan04/Vinayvardhan04/main/images/data_engineer.png" width="700" style="border:1px solid #0072C6; border-radius:6px;" />
 </p>
 
 <p align="center"><b>// Data • Cloud • Engineering • ETL</b></p>
 
-<!-- ============================== TYPING ANIMATION ================================== -->
+<!-- =========================== HEADER ================================ -->
 <h1 align="center">👨‍💻 Vinay Vardhan Poldasu</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0072C6&size=24&center=true&vCenter=true&width=700&lines=Data+Engineer;AWS+%7C+Azure+%7C+Databricks+%7C+PySpark;Building+Scalable+Data+Pipelines;Cloud+Data+Engineering+%7C+ETL+Automation">
-</p>
+<h3 align="center">Data Engineer | AWS | Azure | Databricks | PySpark | ETL Pipelines</h3>
 
 ---
 
@@ -26,80 +19,69 @@
   <a href="mailto:vinayvardhan0402@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/Vinayvardhan04">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 ---
 
 ### 📄 Resume
-📥 **[Click here to download my resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
+📥 **[Download My Resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
 
 ---
 
 ### 🚀 About Me
-I am a **Data Engineer** with hands-on experience in designing and building **end-to-end ETL pipelines, data workflows, and cloud data platforms** using **AWS, Azure, Databricks, and PySpark**. I enjoy solving real-world data problems by building **scalable, automated, and reliable data solutions**.
+I am a **Data Engineer** with experience building **scalable ETL pipelines, cloud data solutions, and data automation workflows** using **AWS, Azure, Databricks, and PySpark**. I focus on reliability, optimization, and making data useful for analytics and business intelligence.
 
 ---
 
-### 🎯 Career Focus
-✅ Data Engineering • ETL/ELT Pipelines • Data Lakes  
-✅ PySpark • Databricks • Airflow • Automation  
-✅ AWS (Glue, S3) • Azure (ADF, Synapse)  
-✅ Data Modeling • Cloud Data Architecture  
+### ⚙️ Skills & Tools
 
----
-
-### ⚙️ Tech Stack & Tools
-
-**Languages & Scripting**  
+#### **Programming**
 `Python` • `SQL` • `Shell Scripting`
 
-**Data Engineering**  
+#### **Data Engineering**
 `PySpark` • `Databricks` • `Airflow` • `AWS Glue` • `Azure Data Factory`
 
-**Cloud & Big Data**  
-`AWS` • `Azure` • `EMR` • `Synapse` • `Lambda`
+#### **Cloud**
+`AWS (S3, Lambda, EMR)` • `Azure (ADF, Synapse)` • `Terraform`
 
-**Databases**  
+#### **Databases**
 `PostgreSQL` • `MySQL` • `Redshift` • `SQL Server`
 
-**Visualization**  
+#### **Visualization**
 `Power BI` • `Tableau`
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-#### 🔹 Data Analyst | Community Dreams Foundation (USA | 2025–Present)
-- Automated reporting pipelines using **Python + SQL**
-- Built **KPI dashboards** using Power BI
-- Reduced manual processing time by **40%**
+#### **Data Analyst – Community Dreams Foundation (USA, Remote)**
+- Built automated data workflows using **Python + SQL**
+- Designed interactive **Power BI dashboards** for KPIs
+- Reduced manual reporting time by **40%**
 
-#### 🔹 Data Engineer | Cognizant Technology Solutions (India | 2022–2023)
-- Built **ETL pipelines** using AWS Glue & Azure ADF  
-- Developed **PySpark jobs** in Databricks  
-- Improved pipeline runtime by **30%**
+#### **Data Engineer – Cognizant Technology Solutions**
+- Designed **ETL workflows** using AWS Glue & Azure ADF
+- Built data pipelines using **PySpark on Databricks**
+- Improved pipeline performance by **30%**
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌩 Cloud Infrastructure Deployment | Built secure AWS cloud infra | AWS |
-| 🛒 Kart Market Analytics | Retail analytics with 2M+ records | SQL + Tableau |
-| 📊 KPI Dashboard | Business dashboard project | Power BI |
+| ☁️ **Cloud Infrastructure Deployment** | Deployed AWS cloud resources securely | AWS |
+| 🛒 **Kart Market Analytics** | Analytics dashboard from 2M+ sales records | SQL + Tableau |
+| 📊 **KPI Power BI Dashboard** | Automated KPI reporting system | Power BI + SQL |
 
 ---
 
-### 💬 Let's Connect
-I'm open to **Data Engineering roles** and **collaboration** on cloud + data projects.
+### 📬 Contact
+Feel free to connect for **Data Engineering roles or collaboration**.
 
 📧 Email: **vinayvardhan0402@gmail.com**  
-🔗 LinkedIn: **https://linkedin.com/in/vinay-vardhan**
+🔗 LinkedIn: **linkedin.com/in/vinay-vardhan**
 
 ---
 
-⭐ _Thanks for visiting my profile!_ Feel free to connect 🤝
+⭐ _Thanks for viewing my profile!_  
