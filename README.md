@@ -4,89 +4,103 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinay Vardhan Poldasu</h1>
-<h3 align="center">Data Engineer | Cloud Data Solutions | ETL Pipeline Specialist</h3>
+<h3 align="center">Cloud ☁️ | Data Engineering ⚙️ | ETL Pipelines 🚀 | Big Data 🔥</h3>
 
 ---
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/vinay-vardhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:vinayvardhan0402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-  <a href="https://github.com/Vinayvardhan04">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
-  </a>
+  <a href="https://linkedin.com/in/vinay-vardhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:vinayvardhan0402@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
+  <a href="https://github.com/Vinayvardhan04"><img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"></a>
 </p>
 
 ---
 
-### 📄 Download My Resume
-📥 **[Click here to download my resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
+### 📄 Resume
+📥 **[Download My Resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
 
 ---
 
 ### 🚀 About Me
-I am a Data Engineer with 2+ years of experience building scalable ETL pipelines and cloud data solutions using AWS, Azure, PySpark, and Databricks. I specialize in data modeling, data warehousing, and big data processing, with a strong focus on reliability, performance, and automation. Passionate about transforming raw data into business insights and supporting analytics & AI initiatives.
+I am a **Data Engineer** with 2+ years of experience designing and building scalable data pipelines and cloud data platforms using **AWS, Azure, PySpark, Databricks, and Airflow**. I help companies unlock data-driven insights by improving ETL automation, storage optimization, and data processing performance.
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### 🎯 Career Focus
+I specialize in:
+✅ Building reliable ETL/ELT data pipelines  
+✅ Designing scalable cloud architectures  
+✅ Optimizing big data processing systems  
+✅ Supporting analytics & AI teams  
+
+I'm actively seeking **Data Engineering** roles where I can solve real-world data problems at scale.
+
+---
+
+### ⚙️ Tech Stack
 
 #### 🛠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql)
-![Shell](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash)
 
 #### 🔧 Data Engineering
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-lightgrey)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazon-aws)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoft-azure)
 
-#### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?logo=amazonaws)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoftazure)
+#### ☁️ Cloud Services
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks)
 
-#### 🗄 Databases & Big Data
+#### 🗄 Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?logo=amazonaws)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?logo=microsoftazure)
+![Redshift](https://img.shields.io/badge/AWS_Redshift-8C4FFF?logo=amazon-aws)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?logo=microsoft-azure)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apache-hadoop)
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-#### 🔹 Data Analyst | Community Dreams Foundation *(USA, Remote — Jul 2025 – Present)*
-- Built automated ETL workflows using Python + SQL
-- Improved data accuracy by 40% using SQL validation pipelines
-- Built interactive Power BI dashboards for KPI reporting
-- Automated analytics reducing manual work by 10+ hours weekly
+#### 🔹 Data Analyst | Community Dreams Foundation *(USA | Jul 2025 – Present)*
+- Automated ETL workflows using Python & SQL
+- Built KPI dashboards using Power BI
+- Improved data accuracy by 40% using validation frameworks
 
-#### 🔹 Data Engineer | Cognizant Technology Solutions *(Hyderabad — Jan 2022 – Aug 2023)*
-- Built scalable ETL pipelines using AWS Glue & Azure Data Factory
-- Designed PySpark workflows on Databricks & AWS EMR
-- Automated cloud deployments with Terraform
-- Increased pipeline performance by 30% via Spark optimization
+#### 🔹 Data Engineer | Cognizant *(Hyderabad | Jan 2022 – Aug 2023)*
+- Built ETL pipelines using AWS Glue & Azure Data Factory
+- Developed PySpark workflows in Databricks
+- Enabled cross-cloud analytics using AWS + Azure
+- Automated deployments using Terraform
+
+---
+
+### 🛠 Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔥 ETL Pipeline Automation | Automated ingestion from APIs & S3 | AWS Glue, Lambda |
+| ⚙️ Data Lakehouse | Unified data platform for analytics | Databricks, Delta Lake |
+| 📊 Power BI Retail Dashboard | Sales analysis over 2M+ records | SQL, Power BI |
 
 ---
 
 ### 🎓 Education
-🎓 **MS in Information Technology & Management** — University of Texas at Dallas (2025)  
-🎓 **B.Tech in Electrical & Electronics Engineering** — K L University (2022)
+🎓 **MS in Information Technology & Management** – University of Texas at Dallas  
+🎓 **B.Tech in Electrical and Electronics Engineering** – K L University  
 
 ---
 
-### 📈 Featured Projects
-- 🔥 **Cloud-Based ETL Pipeline with AWS Glue**  
-- ⚙️ **Databricks Delta Lakehouse Analytics**
-- 📊 **Retail Sales Dashboard using SQL + Power BI**
+### 💬 Let's Connect!
+I'm always interested in collaborating on **data engineering, cloud, ETL, or automation projects**.  
+Feel free to reach out — happy to connect! 🚀
+
+📧 **Email:** vinayvardhan0402@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/vinay-vardhan  
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to connect 😊
+⭐ **Thanks for visiting my profile!** If you like my work, feel free to follow and connect 🤝
