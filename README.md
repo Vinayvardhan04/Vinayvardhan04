@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm Your Name!
+# 👋 Hi there, I'm Vinay Vardhan Poldasu
 
 ![banner](your-image-link-here)
 
 ### 💻 About Me
-- 🎓 Education or background
+- MS in Information Technology Management, University of Texas at Dallas
 - 💼 Current role or career goal
 - 🚀 Passion or focus area
 - ✨ Something unique about you
@@ -28,5 +28,5 @@
 
 ### 📫 Connect With Me
 📧 Email: yourname@example.com  
-💼 LinkedIn: linkedin.com/in/yourprofile  
+💼 LinkedIn: www.linkedin.com/in/vinay-vardhan 
 🌐 Portfolio: yourwebsite.com  
