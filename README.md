@@ -1,98 +1,36 @@
-<!-- ======================= DATA ENGINEERING IMAGE ======================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinayvardhan04/Vinayvardhan04/main/images/data_engineering_banner.jpg" width="900" style="border:2px solid #0072C6; border-radius:6px;">
-</p>
+# Vinay Vardhan Poldasu
 
----
+Software engineer building data services, full-stack applications, and AI-assisted workflows. I work with Java/Spring Boot, Python, SQL, React/TypeScript, AWS, Docker, Kubernetes, and automated testing.
 
-<h1 align="center">👨‍💻 Vinay Vardhan Poldasu</h1>
-<h3 align="center">Data Engineer | AWS | Azure | Databricks | PySpark | ETL Pipelines</h3>
+[LinkedIn](https://www.linkedin.com/in/vinay-vardhan/) · [Email](mailto:vinayvardhan0402@gmail.com)
 
----
+## What I build
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/vinay-vardhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:vinayvardhan0402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+- **Data engineering and analytics:** SQL/Python validation, ETL/ELT transformations, reconciliation, reporting views, and query optimization.
+- **Backend and full stack:** REST APIs, Java/Spring Boot and Python/FastAPI services, React/TypeScript interfaces, PostgreSQL and NoSQL data stores.
+- **AI applications:** Retrieval-augmented document Q&A, evaluation workflows, and LLM-powered automation.
+- **Delivery:** AWS, Docker/Kubernetes, GitHub Actions CI/CD, JUnit, pytest, and API testing.
 
----
+## Selected repositories
 
-### 📄 Resume
-📥 **[Download My Resume](https://drive.google.com/file/d/1x4c2d2GnsB_j8Gb_g6qGIs1XcPoAgopy/view?usp=sharing)**
+| Repository | What to look for |
+|---|---|
+| [GitHub Events Data Platform](https://github.com/Vinayvardhan04/aws-snowflake-data-platform) | A local Python/SQLite event pipeline, data quality checks, Snowflake/dbt models, and AWS storage templates. |
+| [Data Quality Monitor](https://github.com/Vinayvardhan04/data-quality-monitor) | Declarative CSV quality contracts, freshness checks, and machine-readable reports. |
+| [PDF RAG Chatbot](https://github.com/Vinayvardhan04/rag-chatbot-pdfs) | Document ingestion, retrieval, and question answering. |
+| [QA Automation](https://github.com/Vinayvardhan04/QA-Automation) | Automated testing examples. |
+| [Healthcare SQL Queries](https://github.com/Vinayvardhan04/Basic_SQL_Queries_Healthcare.sql) | SQL query practice on healthcare data. |
 
----
+The cloud templates in the data platform repository are portfolio code, not a claimed production deployment. Each repository README describes its current implementation.
 
-### 🚀 About Me
-I’m a **Data Engineer** focused on building scalable data pipelines, cloud ETL workflows, and analytics solutions with **AWS, Azure, Databricks, and PySpark**.  
-Passionate about turning data into insight through efficient architecture and automation.
+## Experience
 
----
+- **WISSENIT, Inc. — Software Engineer:** Full-stack analytics applications, data services, validation workflows, and AWS deployments.
+- **Insight Global — Software Engineer Intern:** Java regression automation, API validation, and SQL data checks.
+- **Cognizant Technology Solutions — Software Engineer:** Java/Python/SQL data services, ETL/ELT validation, and reporting.
 
-### 🛠 Tech Stack
+## Education
 
-**💻 Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+M.S. in Information Technology and Management, The University of Texas at Dallas (May 2025).
 
-**⚙️ Data Engineering**  
-![PySpark](https://img.shields.io/badge/PySpark-e25a1c?style=flat&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Azure ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**☁️ Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**🗄️ Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonaws&logoColor=white)
-
-**📊 Visualization & Tools**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 💼 Experience
-
-**Data Analyst – Community Dreams Foundation (USA | Remote)**  
-- Automated ETL pipelines with Python + SQL  
-- Built Power BI dashboards for KPIs  
-- Cut manual reporting by 40%  
-
-**Data Engineer – Cognizant Technology Solutions (India)**  
-- Developed ETL pipelines using AWS Glue & ADF  
-- Built PySpark workflows on Databricks  
-- Optimized pipeline runtime by 30%
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|--------------|-------------|
-| ☁️ **AWS Data Pipeline** | Automated ETL from S3 to Redshift | AWS Glue, Lambda |
-| 🛒 **Retail Analytics** | Customer insights from 2M+ records | SQL, Tableau |
-| 📊 **Power BI Dashboard** | Automated KPI reporting system | Power BI, SQL |
-
----
-
-### 📬 Contact
-📧 **vinayvardhan0402@gmail.com**  
-🔗 **[LinkedIn – Vinay Vardhan](https://linkedin.com/in/vinay-vardhan)**  
-
----
-
-⭐ *Thanks for visiting my profile!* 🚀
+I welcome conversations about software engineering, data platforms, and practical AI applications.
